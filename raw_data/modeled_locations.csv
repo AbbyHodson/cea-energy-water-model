@@ -1,0 +1,74 @@
+Location,Latitude,Longitude,County,State,Climate Zone
+"Miami, Florida",25.7741728,-80.19362,Miami-Dade County,Florida,Hot-Humid
+"Lihue, Hawaii",21.9769622,-159.3687721,Kauaʻi County,Hawaii,Hot-Humid
+"Tampa, Florida",27.9477595,-82.458444,Hillsborough County,Florida,Hot-Humid
+"New Orleans, Louisiana",29.9759983,-90.0782127,Orleans Parish,Louisiana,Hot-Humid
+"Austin, Texas",30.2711286,-97.7436995,Travis County,Texas,Hot-Humid
+"Phoenix, Arizona",33.4484367,-112.074141,Maricopa County,Arizona,Hot-Dry
+"Uvalde, Texas",29.300357,-99.7733181,Uvalde County,Texas,Hot-Humid
+"Charleston, South Carolina",32.7884363,-79.9399309,Charleston County,South Carolina,Hot-Humid
+"Montgomery, Alabama",32.37742,-86.3091683,Montgomery County,Alabama,Hot-Humid
+"Dallas, Texas",32.7762719,-96.7968559,Dallas County,Texas,Hot-Humid
+"Augusta, Georgia",33.4709714,-81.9748429,Richmond County,Georgia,Mixed-Humid
+"Columbia, South Carolina",34.000754,-81.0352313,Richland County,South Carolina,Mixed-Humid
+"Atlanta, Georgia",33.7489924,-84.3902644,Fulton County,Georgia,Mixed-Humid
+"Little Rock, Arizona",34.79662576,-111.7373115,Yavapai County,Arizona,Mixed-Dry
+"Oklahoma City, Oklahoma",35.4729886,-97.5170536,Oklahoma County,Oklahoma,Mixed-Humid
+"Midland, Texas",31.83688,-102.0103767,Midland County,Texas,Hot-Dry
+"Safford, Arizona",32.8332732,-109.7131698,Graham County,Arizona,Hot-Dry
+"Riverside, California",33.9824949,-117.374238,Riverside County,California,Hot-Dry
+"Modesto, California",37.6393419,-120.9968892,Stanislaus County,California,Hot-Dry
+"San Luis Obispo, California",35.3540209,-120.375716,San Luis Obispo County,California,Marine
+"Salinas, California",36.6744117,-121.655037,Monterey County,California,Marine
+"Philadelphia, Pennsylvania",39.9527237,-75.1635262,Philadelphia County,Pennsylvania,Mixed-Humid
+"Lexington, Kentucky",38.0464066,-84.4970393,Fayette County,Kentucky,Mixed-Humid
+"St. Louis, Missouri",38.6280278,-90.1910154,Unknown,Missouri,Mixed-Humid
+"Wichita, Kansas",37.6922361,-97.3375448,Sedgwick County,Kansas,Mixed-Humid
+"York, Pennsylvania",39.962493,-76.7276989,York County,Pennsylvania,Mixed-Humid
+"Grants, New Mexico",35.14726,-107.851446,Cibola County,New Mexico,Cold
+"Amarillo, Texas",35.20729,-101.8371192,Potter County,Texas,Mixed-Dry
+"Prescott, Arizona",34.539984,-112.468812,Yavapai County,Arizona,Mixed-Dry
+"Bishop, California",37.363679,-118.39524,Inyo County,California,Mixed-Dry
+"Hayfork, California",40.5543106,-123.1830839,Trinity County,California,Mixed-Dry
+"Eugene, Oregon",44.0505054,-123.0950506,Lane County,Oregon,Marine
+"Seattle, Washington",47.6038321,-122.330062,King County,Washington,Marine
+"Hartford, Connecticut",41.764582,-72.6908547,Capitol Planning Region,Connecticut,Cold
+"Toledo, Ohio",41.6529143,-83.5378173,Lucas County,Ohio,Cold
+"Columbus, Ohio",39.9622601,-83.0007065,Franklin County,Ohio,Cold
+"Davenport, Iowa",41.5235808,-90.5770967,Scott County,Iowa,Cold
+"North Platte, Nebraska",41.1238873,-100.7654232,Lincoln County,Nebraska,Cold
+"Denver, Colorado",39.7392364,-104.984862,Unknown,Colorado,Cold
+"Richfield, Utah",38.7724674,-112.084094,Sevier County,Utah,Cold
+"Winnemucca, Nevada",40.9724295,-117.734802,Humboldt County,Nevada,Cold
+"Kennewick, Washington",46.2087066,-119.119919,Benton County,Washington,Cold
+"Montpelier, Vermont",44.2602244,-72.5750364,Washington County,Vermont,Cold
+"Big Rapids, Michigan",43.698078,-85.483656,Mecosta County,Michigan,Cold
+"St. Paul, Minnesota",44.9497487,-93.0931028,Ramsey County,Minnesota,Cold
+"Dickinson, North Dakota",46.8791756,-102.7896242,Stark County,North Dakota,Cold
+"Alamosa, Colorado",37.5780995,-105.7890452,Alamosa County,Colorado,Cold
+"Casper, Wyoming",42.8501191,-106.325138,Natrona County,Wyoming,Cold
+"Idaho Falls, Idaho",43.4887907,-112.03628,Bonneville County,Idaho,Cold
+"Helena, Montana",46.5927425,-112.036277,Lewis and Clark County,Montana,Cold
+"Caribou, Maine",46.8606301,-68.0116807,Aroostook County,Maine,Very Cold
+"Grand Forks, North Dakota",47.9252104,-97.0306325,Grand Forks County,North Dakota,Very Cold
+"Aspen, Colorado",39.1911128,-106.82356,Pitkin County,Colorado,Very Cold
+"Victor, Idaho",43.6025939,-111.111309,Teton County,Idaho,Cold
+"Homer, Alaska",59.6454064,-151.5445643,Kenai Peninsula Borough,Alaska,Very Cold
+"Dillingham, Alaska",59.0398598,-158.4604177,Unorganized Borough,Alaska,Subarctic
+"Aberdeen, South Dakota",45.4647,-98.4865,Brown County,South Dakota,Cold
+"Conway, Arkansas",35.090328,-92.4367,Faulkner County,Arkansas,Mixed-Humid
+"Jackson, Mississippi",32.2981,-90.1806,Jackson County,Mississippi,Hot-Humid
+"Knoxville, Tennessee",35.9653,-83.9233,Knox County,Tennessee,Mixed-Humid
+"Greensboro, North Carolina",36.0726,-79.7915,Guilford County,North Carolina,Mixed-Humid
+"Richmond, Virginia",37.5407,-77.436,N/A,Virginia,Mixed-Humid
+"Charleston, West Virginia",38.3498,-81.6326,Kanawha County,West Virginia,Mixed-Humid
+"Baltimore, Maryland",39.2905,-76.6104,Baltimore County,Maryland,Mixed-Humid
+"Seaford, Delaware",38.6412,-75.611,Sussex County,Delaware,Mixed-Humid
+"Trenton, New Jersey",40.2202,-74.7642,Mercer County,New Jersey,Cold
+"Albany, New York",42.6518,-73.7545,Albany County,New York,Cold
+"Springfield, Massachusetts",42.1013,-72.5893,Hampden County,Massachusetts,Cold
+"Providence, Rhode Island",41.8246,-71.4142,Providence County,Rhode Island,Cold
+"Concord, New Hampshire",43.2062,-71.5398,Merrimack County,New Hampshire,Cold
+"Indianapolis, Indiana",39.7691,-86.158,Marion County,Indiana,Cold
+"Peoria, Illinois",40.6927,-89.5928,Peoria County,Illinois,Cold
+"Madison, Wisconsin",43.0722,-89.4008,Dane County,Wisconsin,Cold
